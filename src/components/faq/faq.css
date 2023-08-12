@@ -1,0 +1,11 @@
+
+.subheadingFont{
+    font-size: 25px;
+}
+
+.tabTextStyling{
+    background: rgb(70,179,251);
+    background: radial-gradient(circle, rgba(70,179,251,1) 11%, rgba(123,139,247,1) 100%);
+    color: white;
+
+}
